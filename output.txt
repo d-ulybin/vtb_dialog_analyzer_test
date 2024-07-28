@@ -1,0 +1,367 @@
+
+--- Dialogue Analysis ---
+
+
+Time: [00:01:97 - 00:04:31]
+Speaker: SPEAKER_01
+Transcription: александра евгеньевна здравствуйте
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.0}
+Sentiment score: 0.00
+Intent: Arguing
+Theme status: Accumulating initial data (4.32/25.00 seconds)
+--------------------------------------------------
+
+Time: [00:05:04 - 00:05:71]
+Speaker: SPEAKER_00
+Transcription: слушаю вас
+Segment emotions: Dominant: angry | {'angry': 0.69, 'sad': 0.0, 'neutral': 0.2, 'positive': 0.11}
+Cumulative emotions: Dominant: neutral | {'angry': 0.34, 'sad': 0.0, 'neutral': 0.6, 'positive': 0.06}
+Sentiment score: 0.01
+Intent: Arguing
+Theme status: Accumulating initial data (5.72/25.00 seconds)
+Warnings:
+- Segment angry emotion above threshold
+- Cumulative angry emotion above threshold
+--------------------------------------------------
+
+Time: [00:05:05 - 00:16:72]
+Speaker: SPEAKER_01
+Transcription: слушаю вас беспокоит вас центральное отделение втб банка меня зовут мария семь минут назад поступила заявка на изменение номера телефона операцию подтверждаете самостоятельно подавали заявку
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.84, 'positive': 0.16}
+Cumulative emotions: Dominant: neutral | {'angry': 0.17, 'sad': 0.0, 'neutral': 0.72, 'positive': 0.11}
+Sentiment score: -0.87
+Intent: Arguing
+Theme status: Accumulating initial data (16.72/25.00 seconds)
+Warnings:
+- Strong negative sentiment detected (score: -0.87)
+--------------------------------------------------
+
+Time: [00:17:66 - 00:20:68]
+Speaker: SPEAKER_00
+Transcription: опять двадцать пять ребята когда вас там разгонят а
+Segment emotions: Dominant: angry | {'angry': 1.0, 'sad': 0.0, 'neutral': 0.0, 'positive': 0.0}
+Cumulative emotions: Dominant: angry | {'angry': 0.58, 'sad': 0.0, 'neutral': 0.36, 'positive': 0.05}
+Sentiment score: -0.29
+Intent: Asserting
+Theme status: Accumulating initial data (20.69/25.00 seconds)
+Warnings:
+- Segment angry emotion above threshold
+- Cumulative angry emotion above threshold
+--------------------------------------------------
+
+Time: [00:21:90 - 00:22:37]
+Speaker: SPEAKER_01
+Transcription: зачем
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.29, 'sad': 0.0, 'neutral': 0.68, 'positive': 0.03}
+Sentiment score: -0.17
+Intent: Arguing
+Theme status: Accumulating initial data (22.37/25.00 seconds)
+--------------------------------------------------
+
+Time: [00:22:84 - 00:27:87]
+Speaker: SPEAKER_00
+Transcription: зачем зафигали уже тут разводить людей вот вас как зовут
+Segment emotions: Dominant: angry | {'angry': 0.89, 'sad': 0.0, 'neutral': 0.11, 'positive': 0.0}
+Cumulative emotions: Dominant: angry | {'angry': 0.59, 'sad': 0.0, 'neutral': 0.39, 'positive': 0.01}
+Sentiment score: -0.83
+Intent: Asserting
+Theme distance: 0.12
+Warnings:
+- Segment angry emotion above threshold
+- Cumulative angry emotion above threshold
+- Strong negative sentiment detected (score: -0.83)
+--------------------------------------------------
+
+Time: [00:28:48 - 00:29:66]
+Speaker: SPEAKER_01
+Transcription: так не отвечайте на звонок
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.85, 'positive': 0.15}
+Cumulative emotions: Dominant: neutral | {'angry': 0.3, 'sad': 0.0, 'neutral': 0.62, 'positive': 0.08}
+Sentiment score: -0.50
+Intent: Arguing
+Theme distance: 0.11
+--------------------------------------------------
+
+Time: [00:30:18 - 00:33:08]
+Speaker: SPEAKER_00
+Transcription: ну у вас вот у вас как вас зовут вот вас как зовут
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.15, 'sad': 0.0, 'neutral': 0.81, 'positive': 0.04}
+Sentiment score: 0.11
+Intent: Rhetorical Questioning
+Theme distance: 0.11
+--------------------------------------------------
+
+Time: [00:33:93 - 00:36:02]
+Speaker: SPEAKER_01
+Transcription: я вам только что представилась меня зовут мария
+Segment emotions: Dominant: positive | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.28, 'positive': 0.72}
+Cumulative emotions: Dominant: neutral | {'angry': 0.07, 'sad': 0.0, 'neutral': 0.54, 'positive': 0.38}
+Sentiment score: -0.01
+Intent: Asserting
+Theme distance: 0.11
+--------------------------------------------------
+
+Time: [00:36:05 - 00:42:97]
+Speaker: SPEAKER_00
+Transcription: ну предположим мария предположим вот мария вот вам не стыдно работать вот заниматься этим делом а
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.04, 'sad': 0.0, 'neutral': 0.77, 'positive': 0.19}
+Sentiment score: -0.91
+Intent: Arguing
+Theme distance: 0.10
+Warnings:
+- Strong negative sentiment detected (score: -0.91)
+--------------------------------------------------
+[NeMo W 2024-07-28 19:55:52 nemo_logging:349] /home/dvulybi1/.venv/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The method `Chain.run` was deprecated in langchain 0.1.0 and will be removed in 0.3.0. Use invoke instead.
+      warn_deprecated(
+    
+
+Time: [00:44:26 - 00:45:69]
+Speaker: SPEAKER_01
+Transcription: нет а почему мне должно быть стыдно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.02, 'sad': 0.0, 'neutral': 0.88, 'positive': 0.1}
+Sentiment score: -0.70
+Intent: Assertive Questioning
+Theme distance: 0.11
+
+Подсказка для оператора:
+1. Признайте чувства клиента. 2. Объясните причины, по которым ему не стоит стыдиться. 3. Предложите поддержку и помощь."
+--------------------------------------------------
+
+Time: [00:46:28 - 00:49:81]
+Speaker: SPEAKER_00
+Transcription: ну то есть вы считаете это нормальный способ заработка обманывать людей
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.01, 'sad': 0.0, 'neutral': 0.94, 'positive': 0.05}
+Sentiment score: -0.55
+Intent: Arguing
+Theme distance: 0.11
+--------------------------------------------------
+
+Time: [00:51:16 - 00:56:54]
+Speaker: SPEAKER_01
+Transcription: как вы считаете депутатам стыдно за то что они обманывают людей
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.89, 'positive': 0.11}
+Cumulative emotions: Dominant: neutral | {'angry': 0.01, 'sad': 0.0, 'neutral': 0.92, 'positive': 0.08}
+Sentiment score: -0.48
+Intent: Arguing
+Theme distance: 0.12
+--------------------------------------------------
+
+Time: [00:56:64 - 01:03:90]
+Speaker: SPEAKER_00
+Transcription: но вы занимаетесь чисто преступным вы оправдываете свои действия что другие делают что то похожее
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.96, 'positive': 0.04}
+Sentiment score: -0.58
+Intent: Asserting
+Theme distance: 0.13
+--------------------------------------------------
+
+Time: [01:03:26 - 01:10:36]
+Speaker: SPEAKER_01
+Transcription: я не оправдываю свои действия я задаю вам вопрос как вы думаете депутатам стыдно за то что они воруют у простых людей деньги
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.97, 'positive': 0.02}
+Sentiment score: -0.89
+Intent: Asserting
+Theme distance: 0.13
+Warnings:
+- Strong negative sentiment detected (score: -0.89)
+--------------------------------------------------
+
+Time: [01:11:66 - 01:13:96]
+Speaker: SPEAKER_00
+Transcription: ну вы считаете что все депутаты воруют
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: -0.01
+Intent: Asserting
+Theme distance: 0.13
+--------------------------------------------------
+
+Time: [01:14:70 - 01:15:29]
+Speaker: SPEAKER_01
+Transcription: конечно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: 0.20
+Intent: Arguing
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:15:73 - 01:18:48]
+Speaker: SPEAKER_00
+Transcription: все безусловно все один до одного
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Sentiment score: -0.85
+Intent: Asserting
+Theme distance: 0.14
+Warnings:
+- Strong negative sentiment detected (score: -0.85)
+--------------------------------------------------
+
+Time: [01:18:31 - 01:19:05]
+Speaker: SPEAKER_01
+Transcription: конечно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Sentiment score: 0.20
+Intent: Arguing
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:19:69 - 01:20:06]
+Speaker: SPEAKER_00
+Transcription: понятно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Sentiment score: 0.13
+Intent: Rhetorical Questioning
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:19:93 - 01:22:09]
+Speaker: SPEAKER_01
+Transcription: посмотрите сколько денег
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.98, 'positive': 0.02}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: -0.01
+Intent: Assertive Questioning
+Theme distance: 0.14
+
+Подсказка для оператора:
+1. Уточните, о каких именно деньгах идет речь (например, сумма на счету, остаток на карте, баланс). 2. Предложите помощь в проверке баланса через систему интернет-банка или мобильное приложение. 3. Если возможно, предоставьте инструкцию по проверке баланса. 4. Если клиент не может проверить баланс самостоятельно, предложите помощь в этом процессе." 
+--------------------------------------------------
+
+Time: [01:20:38 - 01:28:99]
+Speaker: SPEAKER_00
+Transcription: вы поскольку поскольку вы считаете вы считаете что депутаты воруют вы считаете что у вас есть моральное право заниматься тем же самым
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: -0.31
+Intent: Arguing
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:31:12 - 01:31:78]
+Speaker: SPEAKER_01
+Transcription: конечно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: 0.20
+Intent: Arguing
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:33:43 - 01:35:50]
+Speaker: SPEAKER_00
+Transcription: ну да если
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Sentiment score: -0.03
+Intent: Rhetorical Questioning
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:35:35 - 01:38:22]
+Speaker: SPEAKER_01
+Transcription: она такая если даже депутаты воруют а почему я не могу
+Segment emotions: Dominant: neutral | {'angry': 0.02, 'sad': 0.0, 'neutral': 0.98, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.01, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.0}
+Sentiment score: -0.37
+Intent: Asserting
+Theme distance: 0.14
+--------------------------------------------------
+
+Time: [01:38:31 - 01:43:18]
+Speaker: SPEAKER_00
+Transcription: то есть все все нормально все должны друг у друга воровать это хорошо
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.0}
+Sentiment score: 0.92
+Intent: Arguing
+Theme distance: 0.15
+--------------------------------------------------
+
+Time: [01:43:87 - 01:46:34]
+Speaker: SPEAKER_01
+Transcription: но если даже депутаты воруют
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Sentiment score: -0.01
+Intent: Asserting
+Theme distance: 0.15
+--------------------------------------------------
+
+Time: [01:46:34 - 02:00:65]
+Speaker: SPEAKER_00
+Transcription: да причем здесь депутаты перед богом вы же не депутатами станете ну перед своей совестью перед сами собой ну ладно и на меня нарвались нарветесь на какую нибудь многодетную семью украдите ее последние кровные
+Segment emotions: Dominant: angry | {'angry': 0.72, 'sad': 0.0, 'neutral': 0.27, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.36, 'sad': 0.0, 'neutral': 0.64, 'positive': 0.0}
+Sentiment score: -0.88
+Intent: Arguing
+Theme distance: 0.19
+Warnings:
+- Segment angry emotion above threshold
+- Cumulative angry emotion above threshold
+- Strong negative sentiment detected (score: -0.88)
+- Warning: Conversation has deviated from the initial theme. Deviation: 0.19
+--------------------------------------------------
+
+Time: [02:00:88 - 02:02:88]
+Speaker: SPEAKER_01
+Transcription: ну не ну не я так кто то другой
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.99, 'positive': 0.01}
+Cumulative emotions: Dominant: neutral | {'angry': 0.18, 'sad': 0.0, 'neutral': 0.81, 'positive': 0.01}
+Sentiment score: -0.60
+Intent: Arguing
+Theme distance: 0.19
+Warnings:
+- Warning: Conversation has deviated from the initial theme. Deviation: 0.19
+--------------------------------------------------
+
+Time: [02:03:30 - 02:03:97]
+Speaker: SPEAKER_00
+Transcription: понятно
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.09, 'sad': 0.0, 'neutral': 0.9, 'positive': 0.0}
+Sentiment score: 0.13
+Intent: Rhetorical Questioning
+Theme distance: 0.19
+Warnings:
+- Warning: Conversation has deviated from the initial theme. Deviation: 0.19
+--------------------------------------------------
+
+Time: [02:04:53 - 02:07:40]
+Speaker: SPEAKER_00
+Transcription: логика ваша понятна давайте удачи
+Segment emotions: Dominant: neutral | {'angry': 0.0, 'sad': 0.0, 'neutral': 1.0, 'positive': 0.0}
+Cumulative emotions: Dominant: neutral | {'angry': 0.05, 'sad': 0.0, 'neutral': 0.95, 'positive': 0.0}
+Sentiment score: -0.26
+Intent: Arguing
+Theme distance: 0.19
+Warnings:
+- Warning: Conversation has deviated from the initial theme. Deviation: 0.19
+--------------------------------------------------
+
+Time: [02:07:08 - 02:09:25]
+Speaker: SPEAKER_01
+Transcription: удачи спасибо
+Segment emotions: Dominant: positive | {'angry': 0.0, 'sad': 0.0, 'neutral': 0.08, 'positive': 0.92}
+Cumulative emotions: Dominant: neutral | {'angry': 0.02, 'sad': 0.0, 'neutral': 0.52, 'positive': 0.46}
+Sentiment score: 0.73
+Intent: Arguing
+Theme distance: 0.19
+Warnings:
+- Warning: Conversation has deviated from the initial theme. Deviation: 0.19
+--------------------------------------------------
+
+--- Dialogue Summary ---
+
+SPEAKER_00 звонит в центральное отделение втб банка, чтобы узнать, что происходит с депутатами, воруют ли они у простых людей деньги, и задает вопрос о том, почему депутатам стыдно работать в этом деле, потому что у них есть моральное право заниматься этим.

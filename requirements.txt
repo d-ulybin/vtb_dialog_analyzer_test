@@ -1,0 +1,15 @@
+numpy
+torch
+torchaudio
+soundfile
+librosa
+hydra-core
+omegaconf
+pyannote.audio==3.2.0
+pydub
+transformers
+langchain
+sentence-transformers
+scipy
+deep_translator
+yt-dlp
